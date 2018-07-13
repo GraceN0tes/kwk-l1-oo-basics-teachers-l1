@@ -18,5 +18,3 @@ puts great_gatsby.title
 puts great_gatsby.author
 puts great_gatsby.genre
 puts great_gatsby.page_count
-# great_gatsby.author = "F Scott Fitzgerald"
-#puts great_gatsby.author
